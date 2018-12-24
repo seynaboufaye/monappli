@@ -17,5 +17,9 @@ public class CohortWS {
 	@Path("/")
 	public List<Cohort> getAll() {
 		return cohortService.getAllCohort();
+		
+		
 	}
+	//zeyna
+	
 }
