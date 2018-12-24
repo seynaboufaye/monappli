@@ -30,5 +30,6 @@ public class ListCohortController {
 	public void setCohorts(List<Cohort> cohorts) {
 		this.cohorts = cohorts;
 	}
-
+	//zeyna
+	
 }
