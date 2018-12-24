@@ -32,7 +32,6 @@ public class CreateController {
 		this.newCohort = newCohort;
 	}
 	//zeyna
-	public void newMember(zeyna){
-	this.newMember= newMember}
+	
 
 }
