@@ -31,5 +31,8 @@ public class CreateController {
 	public void setNewCohort(Cohort newCohort) {
 		this.newCohort = newCohort;
 	}
+	//zeyna
+	public void newMember(zeyna){
+	this.newMember= newMember}
 
 }
